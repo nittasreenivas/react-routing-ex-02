@@ -1,0 +1,11 @@
+.project-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+
+.project-list a {
+  text-decoration: beige;
+}
